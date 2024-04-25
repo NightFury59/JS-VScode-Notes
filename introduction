@@ -1,0 +1,33 @@
+// JavaScript is the Primary Programming Language of the web.
+// There are ton of unique properties in JavaScript.
+// JavaScript on the frontEnd is usually executed inside a users browser.
+// JavaScript executes in a single thread.
+// Understanding the event loop in JavaScript is very important.
+// For FrontEnd interviews a deep knowdledge of JavaScript is very essential.
+
+
+// JavaScript is Multi-Paradigm general purpose language designed for the web.
+
+// MultiParadigm language --
+// 1) Event-Driven - Respond to events. (such as a user clicking on a button and that button responding)
+// 2) Functional - Pure functions, first-class functions.
+// 3) object-oriented - custom objects with inheritance.
+// 4) declarative - specify desired output.
+// 5) imperative - specify logic and control flow.
+
+
+// JavaScript Engine --
+// It executes code in browser.
+// Just in time compilation (or interpreted).
+
+
+// Primitive types in JavaScript --
+// Numbers - 20, 45, 10.22. (one key difference from other languages is that there is no distinction between integers, float, double, etc.)
+// strings - "Hello!"       (you can use single quotes or double quotes)
+// booleans - true, false
+// BigInt - BigInt(99000000000), 20n      (to store a extremely big number)
+// Symbol - symbol(description)
+// null - null
+// undefined - undefined
+
+
